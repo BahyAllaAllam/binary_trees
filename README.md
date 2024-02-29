@@ -47,10 +47,10 @@ typedef struct binary_tree_s binary_tree_t;
 /* Binary Search Tree */
 typedef struct binary_tree_s bst_t;
 
-**AVL Tree**
+/* AVL Tree */
 typedef struct binary_tree_s avl_t;
 
-**Max Binary Heap**
+/* Max Binary Heap */
 typedef struct binary_tree_s heap_t;
 
 **Note**
@@ -58,5 +58,5 @@ For tasks 0 to 23 (included), you have to deal with simple binary trees. They ar
 
 ### Print function
 
-To match the examples in the tasks, you are given[this function](https://github.com/alx-tools/0x1C.c)
-This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
+To match the examples in the tasks, you are given [this function](https://github.com/alx-tools/0x1C.c). This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction.
+
