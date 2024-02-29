@@ -44,15 +44,18 @@ struct binary_tree_s
 
 typedef struct binary_tree_s binary_tree_t;
 ```
-/* Binary Search Tree */
+**Binary Search Tree**
+```c
 typedef struct binary_tree_s bst_t;
-
-/* AVL Tree */
+```
+**AVL Tree**
+```c
 typedef struct binary_tree_s avl_t;
-
-/* Max Binary Heap */
+```
+**Max Binary Heap**
+```c
 typedef struct binary_tree_s heap_t;
-
+```
 **Note**
 For tasks 0 to 23 (included), you have to deal with simple binary trees. They are not BSTs, thus they don’t follow any kind of rule.
 
